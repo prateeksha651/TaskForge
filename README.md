@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -19,3 +20,7 @@ If you are developing a production application, we recommend using TypeScript wi
 # TaskForge
 An organized, clean task manager that helps you forge your productivity.
 >>>>>>> 816c67d41dd9153a63b04691257492c3d72fb590
+=======
+# TaskForge
+An organized, clean task manager that helps you forge your productivity.
+>>>>>>> a557f44994d683c4d72c01987bd2da4638b05c12
